@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OT&#39;s programming life</title>
+    <link>https://othblog.github.io/</link>
+    <description>Recent content on OT&#39;s programming life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Tw</language>
+    <lastBuildDate>Sat, 15 May 2021 22:15:56 +0800</lastBuildDate><atom:link href="https://othblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>好像真的建起來了</title>
+      <link>https://othblog.github.io/blog/zero/</link>
+      <pubDate>Sat, 15 May 2021 22:15:56 +0800</pubDate>
+      
+      <guid>https://othblog.github.io/blog/zero/</guid>
+      <description>ban ban new born post</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://othblog.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://othblog.github.io/about/</guid>
+      <description>嗨，歡迎來到我的自介。不用多說，大家都知道我是誰，阿t學</description>
+    </item>
+    
+  </channel>
+</rss>
